@@ -3,9 +3,11 @@
 
 - 🔭 Atualmente estou trabalhando com análise e vizualização de dados e KPI's: [(KPI's)](https://app.powerbi.com/groups/me/reports/cfc2606a-907d-40d6-9d3d-0c76d6aab20a?pbi_source=desktop)
 
+- 🔭 Atualmente estou trabalhando com análise e vizualização de dados e KPI's: [(Vizualização de Unifilar)](https://app.powerbi.com/links/uH61OBgrR6?ctid=875b1384-b3c7-48a8-b2c2-5ce0f44392c3&pbi_source=linkShare)
+
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 🔭 Atualmente estou trabalhando com análise e vizualização de dados e KPI's: [(Vizualização de Unifilar)](https://app.powerbi.com/links/uH61OBgrR6?ctid=875b1384-b3c7-48a8-b2c2-5ce0f44392c3&pbi_source=linkShare)
+
 
 - 💬 Me pergunte sobre **Power BI, SQL, Exel e BI**
 
